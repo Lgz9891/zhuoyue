@@ -1,1 +1,11 @@
-没有了暂停服务
+央视,#genre#
+CCTV1综合,rtmp://202.204.52.116:1935/livetv/cctv1hd
+CCTV2财经,rtmp://202.204.52.116:1935/livetv/cctv2hd
+CCTV3综艺,rtmp://202.204.52.116:1935/livetv/cctv3hd
+CCTV4中文国际,rtmp://202.204.52.116:1935/livetv/cctv4hd
+CCTV5体育,rtmp://202.204.52.116:1935/livetv/cctv5hd
+CCTV6电影,rtmp://202.204.52.116:1935/livetv/cctv6hd
+CCTV7国防军事,rtmp://202.204.52.116:1935/livetv/cctv7hd
+CCTV8电视剧,rtmp://202.204.52.116:1935/livetv/cctv8hd
+CCTV9纪录,rtmp://202.204.52.116:1935/livetv/cctv9hd
+CCTV10科教,rtmp://202.204.52.116:1935/livetv/cctv10hd
